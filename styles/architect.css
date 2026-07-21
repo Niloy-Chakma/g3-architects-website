@@ -203,6 +203,16 @@ main{
   justify-items:center;
   filter: grayscale(100%);
 }
+/* footer */
+.rights{
+  max-width:1440px;
+  color:#727272;
+  text-align:center;
+  margin: 8rem auto;
+  padding:3rem 0px;
+  font-size:0.75rem;
+  background-color:rgba(255, 144, 14, 0.1);
+}
 /* Responsive Styles */
 /* for min devices */
 @media screen and (max-width:576px){
